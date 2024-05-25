@@ -21,6 +21,15 @@ This project implements a doubly linked list in C++. The doubly linked list allo
 - `src/Node.cpp`: Implementation file for the node class.
 - `src/main.cpp`: Main program file to test the doubly linked list implementation.
 
+## Screenshots
+Here are some screenshots of the project:
+
+<img src="Screenshots/img1.png" width="300"> <br>
+<img src="Screenshots/img2.png" width="300"> <br>
+<img src="Screenshots/img3.png" width="300"> <br>
+<img src="Screenshots/img4.png" width="300"> <br>
+<img src="Screenshots/img5.png" width="300">
+
 ## How to Run
 1. **Compile the code**:
    ```sh
